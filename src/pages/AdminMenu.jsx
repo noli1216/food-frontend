@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import { useNavigate } from "react-router-dom";
 import API from '../config/api';
-import "./adminmenu.css";
+import "./adminMenu.css";
 
 function AdminMenu() {
   const [menus, setMenus] = useState([]);
