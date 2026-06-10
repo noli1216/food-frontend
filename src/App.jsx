@@ -52,7 +52,7 @@ import Register from "./pages/Register";
 import AdminMenu from "./pages/AdminMenu";
 import EditMenu from "./pages/EditMenu";
 
-import Protected from "./protected";
+import Protected from "./Protected";
 import Checkout from "./pages/Checkout";
 import AdminOrders from "./pages/AdminOrders";
 import Home from "./pages/Home";
